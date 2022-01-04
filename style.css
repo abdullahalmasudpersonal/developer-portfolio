@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+#exercise{
+    margin-left: 2%;
+}
 h2{
     font-size: 40px;
 }
